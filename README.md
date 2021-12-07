@@ -1,6 +1,6 @@
 # POET-Net2Net
 
-This repo contains implementation of [Net2Net](https://arxiv.org/abs/1511.05641) within [Original-POET](https://arxiv.org/abs/1901.01753) algorithm described in:
+This repo contains implementation of [Net2Net](https://arxiv.org/abs/1511.05641) within [Original-POET](https://arxiv.org/abs/1901.01753) algorithm.
 
 ## Integration of Net2Net
 - POET's implementation uses `theta` to decribe agent's parameters in flattened format
